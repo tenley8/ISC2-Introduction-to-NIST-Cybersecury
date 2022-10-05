@@ -1,8 +1,8 @@
 # ISC2-Introduction to NIST Cybersecury Framework Training
 
 ## Contents
--  (ISC)² Introduction to NIST Cybersecury Certificate
-- (ISC)² Introduction to NIST Training Powerpoint Training Notes
+-  (ISC)² Certificate Introduction to NIST Cybersecury Framework
+- (ISC)² Powerpoint Training Notes
 - NIST (CSF) Overview and History
 
 ### NIST Cybersecurity Framework (CSF) 
